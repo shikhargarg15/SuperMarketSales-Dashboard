@@ -6,6 +6,7 @@
 #I have set background color, text color, font, primary color which are present in config.toml file.
 
 #importing all the required libraries
+import numpy as np
 import streamlit as st
 import pandas as pd
 import plotly.express as px
