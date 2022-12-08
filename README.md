@@ -1,8 +1,9 @@
 # SuperMarketSales-Dashboard
-Project By: Shikhar Garg
+Project By: **Shikhar Garg**
+
 [Click here](https://sm-dash-sg1.streamlit.app/) to view the dashboard
 
-Dashboard visualizing the data of a Supermarket for the selected City and Customer type in different types of plots.
+**Dashboard visualizing the data of a Supermarket for the selected City and Customer type in different types of plots.**
  
 # Programming Language
 Python
